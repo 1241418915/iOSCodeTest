@@ -16,7 +16,7 @@
 		BB28CEC9237FF51500FD4F53 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BB28CEC8237FF51500FD4F53 /* main.m */; };
 		BB28CED3237FF51500FD4F53 /* TestSourceTreeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BB28CED2237FF51500FD4F53 /* TestSourceTreeTests.m */; };
 		BB28CEDE237FF51500FD4F53 /* TestSourceTreeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BB28CEDD237FF51500FD4F53 /* TestSourceTreeUITests.m */; };
-		BBABABC823882B4600568884 /* Login.m in Sources */ = {isa = PBXBuildFile; fileRef = BBABABC723882B4600568884 /* Login.m */; };
+		BBABABCB23882C6500568884 /* Register.m in Sources */ = {isa = PBXBuildFile; fileRef = BBABABCA23882C6500568884 /* Register.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,8 +54,8 @@
 		BB28CED9237FF51500FD4F53 /* TestSourceTreeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestSourceTreeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB28CEDD237FF51500FD4F53 /* TestSourceTreeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestSourceTreeUITests.m; sourceTree = "<group>"; };
 		BB28CEDF237FF51500FD4F53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BBABABC623882B4600568884 /* Login.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Login.h; sourceTree = "<group>"; };
-		BBABABC723882B4600568884 /* Login.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Login.m; sourceTree = "<group>"; };
+		BBABABC923882C6500568884 /* Register.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Register.h; sourceTree = "<group>"; };
+		BBABABCA23882C6500568884 /* Register.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Register.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,8 +110,8 @@
 				BB28CEB7237FF51400FD4F53 /* AppDelegate.m */,
 				BB28CEB9237FF51400FD4F53 /* ViewController.h */,
 				BB28CEBA237FF51400FD4F53 /* ViewController.m */,
-				BBABABC623882B4600568884 /* Login.h */,
-				BBABABC723882B4600568884 /* Login.m */,
+				BBABABC923882C6500568884 /* Register.h */,
+				BBABABCA23882C6500568884 /* Register.m */,
 				BB28CEBC237FF51400FD4F53 /* Main.storyboard */,
 				BB28CEC2237FF51500FD4F53 /* Assets.xcassets */,
 				BB28CEC4237FF51500FD4F53 /* LaunchScreen.storyboard */,
@@ -270,10 +270,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BBABABC823882B4600568884 /* Login.m in Sources */,
 				BB28CEBB237FF51400FD4F53 /* ViewController.m in Sources */,
 				BB28CEC1237FF51400FD4F53 /* TestSourceTree.xcdatamodeld in Sources */,
 				BB28CEC9237FF51500FD4F53 /* main.m in Sources */,
+				BBABABCB23882C6500568884 /* Register.m in Sources */,
 				BB28CEB8237FF51400FD4F53 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
