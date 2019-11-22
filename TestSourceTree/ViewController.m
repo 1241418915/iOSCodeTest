@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view.
     NSLog(@"this is LiSi");
     NSLog(@"this is wangwu ");
+    NSLog(@"你可逗乐");
 }
 
 
