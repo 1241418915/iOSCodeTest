@@ -7,7 +7,7 @@
 //
 
 #import "Register.h"
-
+#import "HomePageViewController.h"
 @implementation Register
 
 @end
