@@ -7,7 +7,7 @@
 //
 
 #import "Register.h"
-
+#import "ActivityViewController.h"
 @implementation Register
 
 @end
