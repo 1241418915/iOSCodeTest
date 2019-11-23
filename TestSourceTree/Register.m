@@ -7,7 +7,7 @@
 //
 
 #import "Register.h"
-
+#import "LoginViewController.h"
 @implementation Register
 
 @end
