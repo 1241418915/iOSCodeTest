@@ -8,6 +8,8 @@
 
 #import "Register.h"
 #import "LoginViewController.h"
+#import "HomePageViewController.h"
+
 @implementation Register
 
 @end

@@ -17,7 +17,11 @@
 		BB28CED3237FF51500FD4F53 /* TestSourceTreeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BB28CED2237FF51500FD4F53 /* TestSourceTreeTests.m */; };
 		BB28CEDE237FF51500FD4F53 /* TestSourceTreeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BB28CEDD237FF51500FD4F53 /* TestSourceTreeUITests.m */; };
 		BBABABCB23882C6500568884 /* Register.m in Sources */ = {isa = PBXBuildFile; fileRef = BBABABCA23882C6500568884 /* Register.m */; };
+
 		BBE62FDE2389178F00BBB0DA /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BBE62FDD2389178F00BBB0DA /* LoginViewController.m */; };
+
+		BBE62FDB2389171200BBB0DA /* HomePageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BBE62FDA2389171200BBB0DA /* HomePageViewController.m */; };
+
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,8 +61,13 @@
 		BB28CEDF237FF51500FD4F53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BBABABC923882C6500568884 /* Register.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Register.h; sourceTree = "<group>"; };
 		BBABABCA23882C6500568884 /* Register.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Register.m; sourceTree = "<group>"; };
+
 		BBE62FDC2389178F00BBB0DA /* LoginViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		BBE62FDD2389178F00BBB0DA /* LoginViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+
+		BBE62FD92389171200BBB0DA /* HomePageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomePageViewController.h; sourceTree = "<group>"; };
+		BBE62FDA2389171200BBB0DA /* HomePageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomePageViewController.m; sourceTree = "<group>"; };
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,8 +124,13 @@
 				BB28CEBA237FF51400FD4F53 /* ViewController.m */,
 				BBABABC923882C6500568884 /* Register.h */,
 				BBABABCA23882C6500568884 /* Register.m */,
+
 				BBE62FDC2389178F00BBB0DA /* LoginViewController.h */,
 				BBE62FDD2389178F00BBB0DA /* LoginViewController.m */,
+
+				BBE62FD92389171200BBB0DA /* HomePageViewController.h */,
+				BBE62FDA2389171200BBB0DA /* HomePageViewController.m */,
+
 				BB28CEBC237FF51400FD4F53 /* Main.storyboard */,
 				BB28CEC2237FF51500FD4F53 /* Assets.xcassets */,
 				BB28CEC4237FF51500FD4F53 /* LaunchScreen.storyboard */,
@@ -277,7 +291,10 @@
 			files = (
 				BB28CEBB237FF51400FD4F53 /* ViewController.m in Sources */,
 				BB28CEC1237FF51400FD4F53 /* TestSourceTree.xcdatamodeld in Sources */,
+
 				BBE62FDE2389178F00BBB0DA /* LoginViewController.m in Sources */,
+				BBE62FDB2389171200BBB0DA /* HomePageViewController.m in Sources */,
+
 				BB28CEC9237FF51500FD4F53 /* main.m in Sources */,
 				BBABABCB23882C6500568884 /* Register.m in Sources */,
 				BB28CEB8237FF51400FD4F53 /* AppDelegate.m in Sources */,
